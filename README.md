@@ -73,7 +73,7 @@ Check out our template [here](https://github.com/gnosis/Gnosis-Ecosystem-Fund/bl
 * Create a Pull Request to merge your submission into the our repository 
 
 ### Roadmap
-* 31.12.2019 - First submission deadline up to $125,000 in grants
+* 31.12.2018 - First submission deadline up to $125,000 in grants
 * 31.03.2019 - Second submission deadline up to $125,000 in grants 
 * 30.06.2019 - Third submission deadline up to $125,000 in grants 
 * 31.09.2019 - Fourth submission deadline up to $125,000 in grants
